@@ -1,1 +1,1 @@
-Fonctionnalité XYZ
+Fonctionnalité XYZ modifiée
